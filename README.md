@@ -1,6 +1,6 @@
 Debugging external Groovy scripts
 =================================
-You want to debug some Groovy script that your app runs, but the breakpoints you set fails with "Not able to submit breakpoint LineBreakpoint..."?
+You want to debug some Groovy scripts that your app runs, but the breakpoints you set fail with "Not able to submit breakpoint LineBreakpoint..."?
 
 Here's how to make it work.
 
